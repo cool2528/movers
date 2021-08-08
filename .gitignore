@@ -1,0 +1,7 @@
+/db/
+/logs/
+*.exe
+*.dll
+*.log
+*.txt
+
